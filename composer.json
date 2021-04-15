@@ -1,0 +1,15 @@
+{
+    "name": "tangwei/base-mall",
+    "authors": [
+        {
+            "name": "tangwei",
+            "email": "jsdy_tw1519@163.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Ltmall\\Base\\": "src/"
+        }
+    }
+}

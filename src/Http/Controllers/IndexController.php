@@ -7,5 +7,7 @@ class IndexController extends Controller {
     public function index(){
         echo "ltmall base indexcontroller ";
 
+
+        
     }
 }
